@@ -39,5 +39,6 @@
     "common.Date": "Date",
     "common.Score": "Score",
     "common.View": "View",
-    "common.Rank": "Rank"
+    "common.Rank": "Rank",
+    "common.Clutches won": "Clutches won"
 }
