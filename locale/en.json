@@ -60,5 +60,6 @@
     "common.Damage Per Shot": "Damage Per Shot",
     "common.Rounds Survived": "Rounds Survived",
     "common.n/a": "n/a",
-    "common.Attempts": "Attempts"
+    "common.Attempts": "Attempts",
+    "common.Success": "Success"
 }
