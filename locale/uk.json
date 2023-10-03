@@ -1,5 +1,15 @@
 {
     "common.Kills": "Вбивств",
     "common.HS": "ВуГ",
-    "common.Maps": "Мапи"
+    "common.Maps": "Мапи",
+    "common.Overall": "Загалом",
+    "common.Deaths": "Смерті",
+    "common.Scoreboard": "Табло",
+    "common.Timeline": "Хронологія",
+    "common.Clutches": "Клатчі",
+    "common.Victory": "Перемога",
+    "common.Defeat": "Поразка",
+    "common.Logout": "Вийти",
+    "common.Account Settings": "Налаштування аккаунта",
+    "common.Profile": "Профіль"
 }
