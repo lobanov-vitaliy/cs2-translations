@@ -67,5 +67,6 @@
     "common.Best Weapon": "Best Weapon",
     "common.Most Died To": "Most Died To",
     "common.Round": "Round",
-    "common.Attacker": "Attacker"
+    "common.Attacker": "Attacker",
+    "common.Attacker Side": "Attacker Side"
 }
