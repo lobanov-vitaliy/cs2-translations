@@ -69,5 +69,6 @@
     "common.Round": "Round",
     "common.Attacker": "Attacker",
     "common.Attacker Side": "Attacker Side",
-    "common.Attacker Weapon": "Attacker Weapon"
+    "common.Attacker Weapon": "Attacker Weapon",
+    "common.Victim": "Victim"
 }
