@@ -70,5 +70,6 @@
     "common.Attacker": "Attacker",
     "common.Attacker Side": "Attacker Side",
     "common.Attacker Weapon": "Attacker Weapon",
-    "common.Victim": "Victim"
+    "common.Victim": "Victim",
+    "common.Victim Side": "Victim Side"
 }
