@@ -55,5 +55,6 @@
     "common.Utility Damage": "Utility Damage",
     "common.Total Damage": "Total Damage",
     "common.HE Damage": "HE Damage",
-    "common.Molotov Damage": "Molotov Damage"
+    "common.Molotov Damage": "Molotov Damage",
+    "common.Shots Fired": "Shots Fired"
 }
