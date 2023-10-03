@@ -48,5 +48,6 @@
     "common.Logout": "Logout",
     "common.Account Settings": "Account Settings",
     "common.Profile": "Profile",
-    "common.Damage": "Damage"
+    "common.Damage": "Damage",
+    "common.AWP Kills": "AWP Kills"
 }
