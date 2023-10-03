@@ -11,5 +11,12 @@
     "common.Defeat": "Поразка",
     "common.Logout": "Вийти",
     "common.Account Settings": "Налаштування аккаунта",
-    "common.Profile": "Профіль"
+    "common.Profile": "Профіль",
+    "common.Recent Matches": "Останні матчі",
+    "common.Matches": "Матчі",
+    "common.Mathes History": "Історія матчів",
+    "common.Winrate": "Коефіцієнт виграшу",
+    "common.Best Rank": "Кращий рейтинг",
+    "common.Rank": "Рейтинг",
+    "common.Clutches won": "Виграних клатчів"
 }
