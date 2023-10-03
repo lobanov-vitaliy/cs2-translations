@@ -57,5 +57,6 @@
     "common.HE Damage": "HE Damage",
     "common.Molotov Damage": "Molotov Damage",
     "common.Shots Fired": "Shots Fired",
-    "common.Damage Per Shot": "Damage Per Shot"
+    "common.Damage Per Shot": "Damage Per Shot",
+    "common.Rounds Survived": "Rounds Survived"
 }
