@@ -46,5 +46,6 @@
     "common.Ping": "Ping",
     "common.Kast": "Kast",
     "common.Logout": "Logout",
-    "common.Account Settings": "Account Settings"
+    "common.Account Settings": "Account Settings",
+    "common.Profile": "Profile"
 }
