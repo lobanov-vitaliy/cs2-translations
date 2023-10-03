@@ -51,5 +51,6 @@
     "common.Damage": "Damage",
     "common.AWP Kills": "AWP Kills",
     "common.Pistol Kills": "Pistol Kills",
-    "common.Enemies Flashed": "Enemies Flashed"
+    "common.Enemies Flashed": "Enemies Flashed",
+    "common.Utility Damage": "Utility Damage"
 }
