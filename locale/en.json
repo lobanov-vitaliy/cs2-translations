@@ -59,5 +59,6 @@
     "common.Shots Fired": "Shots Fired",
     "common.Damage Per Shot": "Damage Per Shot",
     "common.Rounds Survived": "Rounds Survived",
-    "common.n/a": "n/a"
+    "common.n/a": "n/a",
+    "common.Attempts": "Attempts"
 }
