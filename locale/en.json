@@ -72,5 +72,6 @@
     "common.Attacker Weapon": "Attacker Weapon",
     "common.Victim": "Victim",
     "common.Victim Side": "Victim Side",
-    "common.Round Time": "Round Time"
+    "common.Round Time": "Round Time",
+    "common.Round Breakdown": "Round Breakdown"
 }
