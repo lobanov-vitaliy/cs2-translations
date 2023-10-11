@@ -72,5 +72,9 @@
     "common.Round Time": "Час Раунда",
     "common.Round Breakdown": "Розбивка по Раундам",
     "common.Wins": "Виграші",
-    "common.Loss": "Програші"
+    "common.Loss": "Програші",
+    "common.Rounds Survived": "Раундів Вижив",
+    "common.n/a": "н/д",
+    "common.Most Died To": "Найбільше Вмер від",
+    "common.Most Killed Player": "Найбільше Убив Гравця"
 }
