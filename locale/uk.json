@@ -70,5 +70,7 @@
     "common.Round": "Раунд",
     "common.Attacker Weapon": "Зброя Нападника",
     "common.Round Time": "Час Раунда",
-    "common.Round Breakdown": "Розбивка по Раундам"
+    "common.Round Breakdown": "Розбивка по Раундам",
+    "common.Wins": "Виграші",
+    "common.Loss": "Програші"
 }
