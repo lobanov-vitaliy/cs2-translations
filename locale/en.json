@@ -76,5 +76,6 @@
     "common.Round Breakdown": "Rounds Breakdown",
     "common.Economy": "Economy",
     "common.C4": "C4",
-    "common.Team": "Team"
+    "common.Team": "Team",
+    "common.Round {round} started": "Round {round} started"
 }
