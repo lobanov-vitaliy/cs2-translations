@@ -78,5 +78,6 @@
     "common.C4": "C4",
     "common.Team": "Team",
     "common.Round {round} started": "Round {round} started",
-    "common.planted the bomb on {place} side": "planted the bomb on {place} side"
+    "common.planted the bomb on {place} side": "planted the bomb on {place} side",
+    "common.Round {round} over - Winner": "Round {round} over - Winner"
 }
