@@ -1,5 +1,5 @@
 {
-    "common.Kills": "Вбивств",
+    "common.Kills": "Убивства",
     "common.HS": "ВГ",
     "common.Maps": "Мапи",
     "common.Overall": "Загалом",
@@ -18,5 +18,16 @@
     "common.Winrate": "Коефіцієнт виграшу",
     "common.Best Rank": "Кращий рейтинг",
     "common.Rank": "Рейтинг",
-    "common.Clutches won": "Виграних клатчів"
+    "common.Clutches won": "Виграних клатчів",
+    "search.placeholder": "Пошук гравця (Steam ID / Steam Посилання на Профіль / Власне Посилання)",
+    "common.CT Side": "КТ Сторона",
+    "common.T Side": "Т Сторона",
+    "common.Sign in with steam": "Увійти за допомогою Steam",
+    "common.Assists": "Поміч",
+    "common.ADR": "СШР",
+    "common.K/D": "У/С",
+    "common.Utility": "Допоміжна шкода",
+    "common.Activity": "Активність",
+    "main-page.Title": "Відстежуйте Вашу Counter-Strike 2 Продуктивність",
+    "main-page.Description": "Відстежуйте свій прогрес, щоб чітко бачити, чи стали ви краще грати і який аспект гри слід покращити. Працює як для Steam, так і для FACEIT"
 }
