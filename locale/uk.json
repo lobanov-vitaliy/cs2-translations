@@ -30,7 +30,7 @@
     "common.Activity": "Активність",
     "main-page.Title": "Відстежуйте Вашу Counter-Strike 2 Продуктивність",
     "main-page.Description": "Відстежуйте свій прогрес, щоб чітко бачити, чи стали ви краще грати і який аспект гри слід покращити. Працює як для Steam, так і для FACEIT",
-    "common.Opening Duels": "Вступні Дуелі",
+    "common.Opening Duels": "Вступні Двобої",
     "common.Stats Overview": "Огляд Статистики",
     "common.Draw": "Нічия",
     "common.KDA": "УСП",
@@ -76,5 +76,14 @@
     "common.Rounds Survived": "Раундів Вижив",
     "common.n/a": "н/д",
     "common.Most Died To": "Найбільше Вмер від",
-    "common.Most Killed Player": "Найбільше Убив Гравця"
+    "common.Most Killed Player": "Найбільше Убив Гравця",
+    "common.planted the bomb on {place} side": "бомбу закладено на {place}",
+    "common.Round {round} over - Winner": "Раунд {round} завершено - Переможець",
+    "common.Plants and Retakes": "Закладання і Вибиття",
+    "common.Counter Terrorist": "Контртерорист",
+    "common.Side": "Сторона",
+    "common.Terrorist": "Терорист",
+    "common.Not planted": "Не закладено",
+    "common.Round {round} started": "Початок Раунду {round}",
+    "common.defused the bomb": "бомбу знешкоджено"
 }
