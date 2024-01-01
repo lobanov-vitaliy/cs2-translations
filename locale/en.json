@@ -90,5 +90,6 @@
     "common.Source": "Source",
     "common.Weapon": "Weapon",
     "common.Pistol": "Pistol",
-    "common.Full eco": "Full eco"
+    "common.Full eco": "Full eco",
+    "common.Semi-eco": "Semi-eco"
 }
