@@ -85,5 +85,11 @@
     "common.Terrorist": "Терорист",
     "common.Not planted": "Не закладено",
     "common.Round {round} started": "Початок Раунду {round}",
-    "common.defused the bomb": "бомбу знешкоджено"
+    "common.defused the bomb": "бомбу знешкоджено",
+    "common.Weapon": "Зброя",
+    "common.Top Players": "Кращі гравці",
+    "common.Source": "Джерело",
+    "common.Pistol": "Пістолет",
+    "common.Most Kills": "Більшість вбивств",
+    "common.Surrendered": "Здалися"
 }
