@@ -50,12 +50,12 @@
     "common.Attacker": "Нападник",
     "common.Victim": "Жертва",
     "common.Economy": "Економіка",
-    "common.Traded": "Обміняно",
+    "common.Traded": "Розміняно",
     "common.Attacker Side": "Сторона Нападника",
     "common.Victim Side": "Сторона Жертви",
     "common.C4": "С4",
     "common.Team": "Команда",
-    "common.Kast": "УПВО",
+    "common.Kast": "УПВР (KAST)",
     "common.Damage": "Шкода",
     "common.AWP Kills": "Убивств із АВП",
     "common.Pistol Kills": "Убивств із Пістолета",
@@ -91,5 +91,10 @@
     "common.Source": "Джерело",
     "common.Pistol": "Пістолет",
     "common.Most Kills": "Більшість вбивств",
-    "common.Surrendered": "Здалися"
+    "common.Surrendered": "Здалися",
+    "common.Ranks": "Звання",
+    "common.Full eco": "Повний еко",
+    "common.Semi-eco": "Напівеко",
+    "common.Full buy": "Повний закуп",
+    "common.Semi-buy": "Напівзакуп"
 }
