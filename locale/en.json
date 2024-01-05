@@ -103,5 +103,6 @@
     "common.Competitive": "Competitive",
     "common.Wingman": "Wingman",
     "common.All maps": "All maps",
-    "common.Type": "Type"
+    "common.Type": "Type",
+    "weapon.group.pistol": "Pistols"
 }
