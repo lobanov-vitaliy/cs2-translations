@@ -105,5 +105,6 @@
     "common.All maps": "All maps",
     "common.Type": "Type",
     "weapon.group.pistol": "Pistols",
-    "weapon.group.rifle": "Rifles"
+    "weapon.group.rifle": "Rifles",
+    "weapon.group.sniper": "Sniper Rifles"
 }
