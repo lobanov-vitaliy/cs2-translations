@@ -104,5 +104,6 @@
     "common.Wingman": "Wingman",
     "common.All maps": "All maps",
     "common.Type": "Type",
-    "weapon.group.pistol": "Pistols"
+    "weapon.group.pistol": "Pistols",
+    "weapon.group.rifle": "Rifles"
 }
