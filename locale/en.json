@@ -108,5 +108,6 @@
     "weapon.group.rifle": "Rifles",
     "weapon.group.sniper": "Sniper Rifles",
     "weapon.group.smg": "SMGs",
-    "weapon.group.heavy": "Shotguns"
+    "weapon.group.heavy": "Shotguns",
+    "common.By Types": "By Types"
 }
