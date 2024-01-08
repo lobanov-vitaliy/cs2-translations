@@ -102,5 +102,10 @@
     "common.Competitive": "Змагальний",
     "common.Type": "Тип",
     "common.All maps": "Всі мапи",
-    "common.Accuracy": "Точність"
+    "common.Accuracy": "Точність",
+    "weapon.group.pistol": "Пістолети",
+    "weapon.group.rifle": "Гвинтівки",
+    "weapon.group.sniper": "Снайперські гвинтівки",
+    "weapon.group.smg": "Проміжна зброя",
+    "weapon.group.heavy": "Рушниці"
 }
