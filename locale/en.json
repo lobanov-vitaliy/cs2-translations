@@ -111,5 +111,6 @@
     "weapon.group.heavy": "Shotguns",
     "common.By Types": "By Types",
     "common.Accuracy": "Accuracy",
-    "common.Dead": "Dead"
+    "common.Dead": "Dead",
+    "common.Very slow": "Very slow"
 }
