@@ -110,5 +110,6 @@
     "weapon.group.smg": "SMGs",
     "weapon.group.heavy": "Shotguns",
     "common.By Types": "By Types",
-    "common.Accuracy": "Accuracy"
+    "common.Accuracy": "Accuracy",
+    "common.Dead": "Dead"
 }
