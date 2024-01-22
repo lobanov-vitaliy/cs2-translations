@@ -112,5 +112,6 @@
     "common.By Types": "By Types",
     "common.Accuracy": "Accuracy",
     "common.Dead": "Dead",
-    "common.Very slow": "Very slow"
+    "common.Very slow": "Very slow",
+    "common.Slow": "Slow"
 }
