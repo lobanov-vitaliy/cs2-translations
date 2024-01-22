@@ -115,5 +115,6 @@
     "common.Very slow": "Very slow",
     "common.Slow": "Slow",
     "common.Normal": "Normal",
-    "common.Fast": "Fast"
+    "common.Fast": "Fast",
+    "common.Very fast": "Very fast"
 }
