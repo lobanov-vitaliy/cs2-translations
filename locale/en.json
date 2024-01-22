@@ -116,5 +116,6 @@
     "common.Slow": "Slow",
     "common.Normal": "Normal",
     "common.Fast": "Fast",
-    "common.Very fast": "Very fast"
+    "common.Very fast": "Very fast",
+    "common.2D Replay": "2D Replay"
 }
