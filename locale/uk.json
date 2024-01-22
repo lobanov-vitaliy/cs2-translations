@@ -107,5 +107,6 @@
     "weapon.group.rifle": "Гвинтівки",
     "weapon.group.sniper": "Снайперські гвинтівки",
     "weapon.group.smg": "Проміжна зброя",
-    "weapon.group.heavy": "Рушниці"
+    "weapon.group.heavy": "Рушниці",
+    "common.Dead": "Мертвий"
 }
